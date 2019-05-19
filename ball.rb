@@ -39,6 +39,8 @@ class Ball
   def reset
     @x = @init_x
     @y = @init_y
+    @vx = 5
+    @vy = 0
   end
 
 
