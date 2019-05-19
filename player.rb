@@ -51,5 +51,5 @@ class Player
 			@x - WIDTH/2, @y + HEIGHT/2, Color::WHITE
 		)
 	end
-
+ 
 end
